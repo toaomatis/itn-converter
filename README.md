@@ -4,7 +4,7 @@
 
 Unfortunately ITNConv is not and will not run under [Linux](http://www.benichou-software.com/index.php?option=com_content&view=article&id=21%3Aexiste-t-il-une-version-mac-ou-linux&catid=13%3Aitn-converter&Itemid=15&lang=en).
 
-While I needed this tool and had no Windows PC around, I tried running it in [Docker and Wine](https://hub.docker.com/r/toaomatis/itn-converter/). It worked flawlessly!
+While I needed this tool and had no Windows PC around, I tried running it in [Docker and Wine](https://hub.docker.com/r/suchja/wine/). It worked flawlessly!
 
 So I decided to make an image out of it, so everyone can enjoy ITNConv under Linux.
 
