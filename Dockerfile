@@ -1,8 +1,8 @@
 FROM suchja/wine:latest
 MAINTAINER Mathijs de Kruyf <hpmdekruyf+docker@gmail.com>
 
-ENV ITN_CONVERTER_VERSION 1.92
-ENV ITN_DOWNLOAD_FILE itnconv192.zip
+ENV ITN_CONVERTER_VERSION 1.94
+ENV ITN_DOWNLOAD_FILE itnconv194.zip
 
 USER root
 
